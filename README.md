@@ -44,9 +44,45 @@ The model is stored in the file `muller-motion-xxx-5.tab`,
 in which `xxx` is the pixel resolution,
 and 5 is the time resolution (in million years).
 
+### Paleolandscape
+
+The paleolandscape model from 0-400 Ma was constructed by taken
+the [unrotated model of Cao et al. (2017)](https://github.com/js-arias/gml-cao)
+and then rotating the pixels using the Muller et al. (2022) rotation.
+For the 405-540 Ma time frame,
+it use the [unrotated PaleoMap model of Scotese and Wright (2018)](https://github.com/js-arias/gml-paleomap).
+
+As the paleolandscape is derived from unrotated models,
+it will have some gaps for landscapes features in the original models
+that can not be associated with a moving plate
+(for example the mountain ranges between India and Asia,
+just before the India collision).
+
+The landscape model uses the following convention:
+
+Key | Environment
+--- | -----------
+  1 | oceanic plateaus
+  2 | continental shelf
+  3 | lowlands
+  4 | highlands
+  5 | ice sheets
+
+The model is stored in the file `muller-landscape-cao-paleomap-xxx-5.tab`,
+
+in which `xxx` is the pixel resolution,
+and 5 is the time resolution (in million years).
+
+A color key,
+which is compatible with color-blindness,
+and can be used with `plates timepix map` command
+is stored in the file `muller-landscape-cao-paleomap-key.tab`.
+
 ## Citation and data license
 
 This model is the direct process of the
+Cao et al. (2017),
+Scotese and Wright (2018),
 Merdith et al. (2021),
 and Müller et al. (2022) and  models.
 As such,
@@ -61,6 +97,12 @@ it might be a good idea to link this repository
 and help others to replicate or re-use your analysis.
 
 ## References
+
+Cao, W. et al.
+(2017)
+Improving global paleogeography since the late Paleozoic using paleobiology.
+Biogeosciences, 14, 5425-5439.
+DOI: [10.5194/bg-14-5425-2017](https://doi.org/10.5194/bg-14-5425-2017).
 
 Johansson, L., Zahirovic, S., & Müller, R. D.
 (2018).
@@ -79,3 +121,8 @@ Müller, R. D. et al.
 A tectonic-rules-based mantle reference frame since 1 billion years ago – implications for supercontinent cycles and plate–mantle system evolution.
 Solid Earth, 12, 1127-1159.
 DOI: [10.5194/se-13-1127-2022](https://doi.org/10.5194/se-13-1127-2022).
+
+Scotese, C.S., Wrigth, N.
+(2018)
+PALEOMAP Paleodigital elevation models (PaleoDEMs) for Phanerozoic.
+URL: <https://www.earthbyte.org/paleodem-resource-scotese-and-wright-2018/>.
