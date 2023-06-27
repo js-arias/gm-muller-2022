@@ -1,7 +1,7 @@
 # Muller et al. 2022 Model
 
 This model is imported from the optimized plate rotation model
-of Muller et al. (2022)
+of Müller et al. (2022)
 that can downloaded from the [EarthByte page](https://earthbyte.org/webdav/ftp/Data_Collections/Muller_etal_2022_SE/).
 
 ## Time frame
@@ -32,6 +32,17 @@ from Merdith et al. (2021),
 extended with the volcanic provinces from Johansson et al. (2018).
 It is stored in the file `muller-pixels-xxx.tab`
 in which `xxx` is used to indicate the resolution.
+
+### Plate motion model
+
+The plate motion model
+(or rotation model)
+was based on the tectonic rule optimized rotation model
+of Müller et al. (2022).
+
+The model is stored in the file `muller-motion-xxx-5.tab`,
+in which `xxx` is the pixel resolution,
+and 5 is the time resolution (in million years).
 
 ## Citation and data license
 
