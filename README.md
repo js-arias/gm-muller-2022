@@ -99,6 +99,10 @@ of your publication,
 it might be a good idea to link this repository
 and help others to replicate or re-use your analysis.
 
+Data from PaleoMap project
+(Scotese and Wrigth, 2018)
+is distributed under the CC-BY 4.0 license.
+
 ## Disclaimer
 
 As the models are a product of a pixelation of vectorial models,
