@@ -51,6 +51,9 @@ the [unrotated model of Cao et al. (2017)](https://github.com/js-arias/gml-cao)
 and then rotating the pixels using the Muller et al. (2022) rotation.
 For the 405-540 Ma time frame,
 it use the [unrotated PaleoMap model of Scotese and Wright (2018)](https://github.com/js-arias/gml-paleomap).
+Layers at present time are derived
+from [NaturalEarth](https://www.naturalearthdata.com/)
+and [NaturalEarth III](https://www.shadedrelief.com/natural3/index.html).
 
 As the paleolandscape is derived from unrotated models,
 it will have some gaps for landscapes features in the original models
