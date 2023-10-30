@@ -1,5 +1,5 @@
 # tectonic plates pixelation
-# data save on: 2023-06-23T15:01:40-03:00
+# data save on: 2023-10-30T16:21:45-03:00
 equator	plate	pixel	name	begin	end
 360	101	22	ALPHA RIDGE, ARCTIC OCEAN, 2500M NEW	124000000	0
 360	101	23	ALPHA RIDGE, ARCTIC OCEAN, 2500M NEW	124000000	0
@@ -1161,6 +1161,7 @@ equator	plate	pixel	name	begin	end
 360	101	7855	Mazatzal (Central)	1800000000	0
 360	101	7856	Mazatzal (Central)	1800000000	0
 360	101	7857	Mazatzal (Central)	1800000000	0
+360	101	7858	Mazatzal (Central)	1800000000	0
 360	101	7859	Granite-Rhyolite	1600000000	0
 360	101	7860	Granite-Rhyolite	1600000000	0
 360	101	7861	Granite-Rhyolite	1600000000	0
@@ -3710,6 +3711,7 @@ equator	plate	pixel	name	begin	end
 360	201	24162	Central Amazonia	2600000000	0
 360	201	24163	South America Craton	520000000	0
 360	201	24164	South America Craton	520000000	0
+360	201	24165	South America Craton	520000000	0
 360	201	24487	Northern Andean Frontier (South America Craton)	450000000	0
 360	201	24488	Northern Andean Frontier (South America Craton)	450000000	0
 360	201	24489	Northern Andean Frontier (South America Craton)	450000000	0
@@ -5436,6 +5438,7 @@ equator	plate	pixel	name	begin	end
 360	301	2247	Eurasia	600000000	0
 360	301	2248	Eurasia	600000000	0
 360	301	2249	Eurasia	600000000	0
+360	301	2250	Eurasia	600000000	0
 360	301	2409		15000000	0
 360	301	2410	Eurasia	600000000	0
 360	301	2411	Eurasia	600000000	0
@@ -5486,6 +5489,7 @@ equator	plate	pixel	name	begin	end
 360	301	5825	Scythian	250000000	0
 360	301	6068	Scythian (Caspian Sea)	250000000	0
 360	301	6069	Scythian (Caspian Sea)	250000000	0
+360	301	6070	Scythian (Caspian Sea)	250000000	0
 360	301	6071	Scythian (Caspian Sea)	250000000	0
 360	301	6072	Caucasus-Mangyshlan	250000000	0
 360	301	6073	Caucasus-Mangyshlan	250000000	0
@@ -5868,6 +5872,7 @@ equator	plate	pixel	name	begin	end
 360	302	2112	Baltica	3600000000	0
 360	302	2113	Baltica	3600000000	0
 360	302	2114	Baltica	3600000000	0
+360	302	2250	Baltica	3600000000	0
 360	302	2251	Baltica	3600000000	0
 360	302	2252	Baltica	3600000000	0
 360	302	2253	Baltica	3600000000	0
@@ -6677,6 +6682,7 @@ equator	plate	pixel	name	begin	end
 360	306	6566	COR (Corsica)	600000000	0
 360	306	6567	COR (Corsica)	600000000	0
 360	306	6832	COR (Corsica)	600000000	0
+360	306	6833	COR (Corsica)	600000000	0
 360	306	7102	COR (Corsica)	600000000	0
 360	307	5549	Adria	319000000	0
 360	307	5550	Adria	319000000	0
@@ -8685,6 +8691,7 @@ equator	plate	pixel	name	begin	end
 360	457	8879	Kunlun	600000000	0
 360	457	8880	Kunlun	600000000	0
 360	457	8881	Kunlun	600000000	0
+360	457	8882	Kunlun	600000000	0
 360	457	8883	Kunlun	600000000	0
 360	457	9173	Kunlun	600000000	0
 360	457	9174	Kunlun	600000000	0
@@ -11082,6 +11089,7 @@ equator	plate	pixel	name	begin	end
 360	614	22181	Kalimantan Core (Borneo)	250000000	0
 360	614	22182	Kalimantan Core (Borneo)	250000000	0
 360	614	22183	Kalimantan Core (Borneo)	250000000	0
+360	614	22538	Kalimantan Core (Borneo)	250000000	0
 360	614	22539	Kalimantan Core (Borneo)	250000000	0
 360	614	22540	Kalimantan Core (Borneo)	250000000	0
 360	614	22897	Kalimantan Core (Borneo)	250000000	0
@@ -11593,6 +11601,7 @@ equator	plate	pixel	name	begin	end
 360	657	22535	West Java	250000000	0
 360	657	22536	West Java	250000000	0
 360	657	22537	West Java	250000000	0
+360	657	22538	West Java	250000000	0
 360	657	22891	West Java	250000000	0
 360	657	22892	West Java	250000000	0
 360	657	22893	West Java	250000000	0
@@ -14400,6 +14409,7 @@ equator	plate	pixel	name	begin	end
 360	715	11280	Murzuq Craton	1500000000	0
 360	715	11281	Sahara (North Africa Plate)	1100000000	0
 360	715	11282	Sahara (North Africa Plate)	1100000000	0
+360	715	11283	Sahara (North Africa Plate)	1100000000	0
 360	715	11284	Al Kufrah Craton	1500000000	0
 360	715	11285	Al Kufrah Craton	1500000000	0
 360	715	11286	Al Kufrah Craton	1500000000	0
@@ -17255,6 +17265,7 @@ equator	plate	pixel	name	begin	end
 360	803	40375	Indo-Antarctica	2600000000	0
 360	803	40378	Indo-Antarctica	2600000000	0
 360	803	40379	Indo-Antarctica	2600000000	0
+360	803	40380	Indo-Antarctica	2600000000	0
 360	803	40382	Indo-Antarctica	2600000000	0
 360	803	40383	Indo-Antarctica	2600000000	0
 360	804	39392		10000000	0
@@ -17314,6 +17325,7 @@ equator	plate	pixel	name	begin	end
 360	804	40320	Amundsen Terrane	410000000	0
 360	804	40321	Amundsen Terrane	410000000	0
 360	804	40322	Amundsen Terrane	410000000	0
+360	804	40323	Amundsen Terrane	410000000	0
 360	804	40324	Thurston Island	400000000	0
 360	804	40325	Thurston Island	400000000	0
 360	804	40326	Thurston Island	400000000	0
@@ -20604,6 +20616,7 @@ equator	plate	pixel	name	begin	end
 360	2901	33839	Pampean Terrane	450000000	0
 360	2901	33840	Pampean Terrane	450000000	0
 360	3061	6567	SCR (Southern Corsica)	600000000	0
+360	3061	6833	SCR (Southern Corsica)	600000000	0
 360	3061	6834	SCR (Southern Corsica)	600000000	0
 360	3061	7102	SCR (Southern Corsica)	600000000	0
 360	3061	7103	SCR (Southern Corsica)	600000000	0
@@ -20623,6 +20636,7 @@ equator	plate	pixel	name	begin	end
 360	3063	7103	NSR (Northern Sardinia)	600000000	0
 360	3063	7376	NSR (Northern Sardinia)	600000000	0
 360	3201	7098	MEN (Menorca)	600000000	0
+360	3201	7099	MEN (Menorca)	600000000	0
 360	3201	7373	MEN (Menorca)	600000000	0
 360	3201	7374	MEN (Menorca)	600000000	0
 360	3201	7652	MEN (Menorca)	600000000	0
@@ -20894,6 +20908,7 @@ equator	plate	pixel	name	begin	end
 360	4561	8587	Qaidam	600000000	0
 360	4561	8880	Qaidam	600000000	0
 360	4561	8881	Qaidam	600000000	0
+360	4561	8882	Qaidam	600000000	0
 360	4561	8883	Qaidam	600000000	0
 360	4561	9182	Qaidam	600000000	0
 360	4591	5345	Kyrgiz North Tianshan	600000000	0
@@ -23140,6 +23155,7 @@ equator	plate	pixel	name	begin	end
 360	8031	40377	Unknown Indo-Antarctica	2600000000	0
 360	8031	40378	Unknown Indo-Antarctica	2600000000	0
 360	8031	40379	Unknown Indo-Antarctica	2600000000	0
+360	8031	40380	Unknown Indo-Antarctica	2600000000	0
 360	8031	40381	Unknown Indo-Antarctica	2600000000	0
 360	8031	40382	Unknown Indo-Antarctica	2600000000	0
 360	8031	40383	Unknown Indo-Antarctica	2600000000	0
@@ -23580,6 +23596,7 @@ equator	plate	pixel	name	begin	end
 360	16130	3824	Aleutian Chain Polygon	50000000	0
 360	16130	3825	Aleutian Chain Polygon	50000000	0
 360	16130	3826	Aleutian Chain Polygon	50000000	0
+360	16130	3838	Aleutian Chain Polygon	50000000	0
 360	16130	3839	Aleutian Chain Polygon	50000000	0
 360	16130	4037	Aleutian Chain Polygon	50000000	0
 360	16130	4038	Aleutian Chain Polygon	50000000	0
@@ -23699,10 +23716,12 @@ equator	plate	pixel	name	begin	end
 360	16140	3634	Bering Shelf	50000000	0
 360	16140	3635	Bering Shelf	50000000	0
 360	16141	2499	Outer Bering Shelf	50000000	0
+360	16141	2674	Outer Bering Shelf	50000000	0
 360	16141	2675	Outer Bering Shelf	50000000	0
 360	16141	2854	Outer Bering Shelf	50000000	0
 360	16141	2855	Outer Bering Shelf	50000000	0
 360	16141	2856	Outer Bering Shelf	50000000	0
+360	16141	3039	Outer Bering Shelf	50000000	0
 360	16141	3040	Outer Bering Shelf	50000000	0
 360	16141	3041	Outer Bering Shelf	50000000	0
 360	16141	3042	Outer Bering Shelf	50000000	0
@@ -23711,6 +23730,7 @@ equator	plate	pixel	name	begin	end
 360	16141	3232	Outer Bering Shelf	50000000	0
 360	16141	3233	Outer Bering Shelf	50000000	0
 360	16141	3234	Outer Bering Shelf	50000000	0
+360	16141	3426	Outer Bering Shelf	50000000	0
 360	16141	3427	Outer Bering Shelf	50000000	0
 360	16141	3428	Outer Bering Shelf	50000000	0
 360	16141	3429	Outer Bering Shelf	50000000	0
@@ -23726,10 +23746,12 @@ equator	plate	pixel	name	begin	end
 360	16141	3633	Outer Bering Shelf	50000000	0
 360	16141	3634	Outer Bering Shelf	50000000	0
 360	16141	3635	Outer Bering Shelf	50000000	0
+360	16141	3833	Outer Bering Shelf	50000000	0
 360	16141	3834	Outer Bering Shelf	50000000	0
 360	16141	3835	Outer Bering Shelf	50000000	0
 360	16141	3836	Outer Bering Shelf	50000000	0
 360	16141	3837	Outer Bering Shelf	50000000	0
+360	16141	3838	Outer Bering Shelf	50000000	0
 360	16141	3839	Outer Bering Shelf	50000000	0
 360	16141	4045	Outer Bering Shelf	50000000	0
 360	16141	4262	Outer Bering Shelf	50000000	0
@@ -24197,6 +24219,7 @@ equator	plate	pixel	name	begin	end
 360	22054	23814	??	550000000	0
 360	22054	23815	Sao Francisco	1000000000	0
 360	22054	23816	Sao Francisco	1000000000	0
+360	22054	24165	??	550000000	0
 360	22054	24166	??	550000000	0
 360	22054	24167	??	550000000	0
 360	22054	24168	??	550000000	0

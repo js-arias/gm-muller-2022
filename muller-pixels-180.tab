@@ -1,5 +1,5 @@
 # tectonic plates pixelation
-# data save on: 2023-06-23T14:56:56-03:00
+# data save on: 2023-10-30T16:28:57-03:00
 equator	plate	pixel	name	begin	end
 180	101	8	ALPHA RIDGE, ARCTIC OCEAN, 2500M NEW	124000000	0
 180	101	9	ALPHA RIDGE, ARCTIC OCEAN, 2500M NEW	124000000	0
@@ -8072,12 +8072,14 @@ equator	plate	pixel	name	begin	end
 180	16140	938	Bering Shelf	50000000	0
 180	16141	563	Outer Bering Shelf	50000000	0
 180	16141	648	Outer Bering Shelf	50000000	0
+180	16141	738	Outer Bering Shelf	50000000	0
 180	16141	739	Outer Bering Shelf	50000000	0
 180	16141	740	Outer Bering Shelf	50000000	0
 180	16141	833	Outer Bering Shelf	50000000	0
 180	16141	834	Outer Bering Shelf	50000000	0
 180	16141	835	Outer Bering Shelf	50000000	0
 180	16141	836	Outer Bering Shelf	50000000	0
+180	16141	934	Outer Bering Shelf	50000000	0
 180	16141	935	Outer Bering Shelf	50000000	0
 180	16141	936	Outer Bering Shelf	50000000	0
 180	16141	937	Outer Bering Shelf	50000000	0
